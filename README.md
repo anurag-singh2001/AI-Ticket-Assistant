@@ -19,8 +19,6 @@ The backend is built with **Node.js**, **Express**, **MongoDB**, and **Inngest**
 ---
 
 
----
-
 ## 🧩 Technologies Used
 
 ### 🔹 Core Stack
@@ -53,8 +51,8 @@ The backend is built with **Node.js**, **Express**, **MongoDB**, and **Inngest**
 ### 1️⃣ Clone and Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/ai-ticket-backend.git
-cd ai-ticket-backend
+git clone https://github.com/anurag-singh2001/AI-Ticket-Assistant.git
+cd ai-ticket-assistant
 npm install
 ```
 
@@ -87,6 +85,6 @@ npm install
   <img width="1917" height="899" alt="image" src="https://github.com/user-attachments/assets/a82cd466-0a56-4a34-a236-aef99548a14b" />
   <img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/d900bf90-3015-4589-ba23-71e73e457788" />
 
-for front code click on this click on this link: https://github.com/anurag-singh2001/AI-Ticket-Assistant-Frontend
+for frontend code click on this link: https://github.com/anurag-singh2001/AI-Ticket-Assistant-Frontend
 
 
